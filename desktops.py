@@ -4,7 +4,7 @@
 # Set desktop pictures for all desktops on OS X 10.9+.
 #
 # Arthur Hammer
-# https://github.com/a-hammer/change-desktops
+# https://github.com/arthurhammer/change-desktops
 
 import os
 import sys
